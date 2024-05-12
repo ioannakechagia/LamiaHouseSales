@@ -1,0 +1,120 @@
+[{
+    "id": 1,
+    "name": "Laografiko mouseio",
+    "category": "Mouseio",
+    "longitude":22.433430,
+    "latitude":38.901170 
+
+
+},
+
+{
+    "id": 2,
+    "name": "Archaiologiko Mouseio-Kastro Lamias",
+    "category": "Mouseio",
+    "longitude": 22.43527,
+    "latitude": 38.90456
+
+
+},
+
+{
+    "id": 3,
+    "name": "Mouseio Ethnikis Antistasis",
+    "category": "Mouseio",
+    "longitude": 22.43176,
+    "latitude": 38.91156 
+
+
+},
+
+{
+    "id": 4,
+    "name": "Andriantas Athanasiou Diakou",
+    "category": "Agalma",
+    "longitude": 22.43141,
+    "latitude": 38.89950 
+
+
+},
+
+{
+    "id": 5,
+    "name": "Andriantas Ari Velouchioti",
+    "category": "Agalma",
+    "longitude": 22.43407,
+    "latitude": 38.90191 
+
+
+},
+
+{
+    "id": 6,
+    "name": "Mnimeio Kamilovrisis",
+    "category": "Mnimeio",
+    "longitude": 22.40620,
+    "latitude": 38.94596 
+
+
+},
+
+{
+    "id": 7,
+    "name": "Kenotafio Athanasiou Diakou",
+    "category": "Mnimeio",
+    "longitude": 22.44263,
+    "latitude": 38.90157
+
+
+},
+
+{
+    "id": 8,
+    "name": "Spilaio Kagkarou Afanou",
+    "category": "Axiotheato",
+    "longitude": 22.44641,
+    "latitude": 38.90364
+
+
+},
+
+{
+    "id": 9,
+    "name": "Buzantino Mouseio",
+    "category": "Mouseio",
+    "longitude": 22.23712,
+    "latitude": 38.87193 
+
+
+},
+
+{
+    "id": 10,
+    "name": "Mesaioniko Kastro Ipatis",
+    "category": "Axiotheato",
+    "longitude": 22.24264,
+    "latitude": 38.86732
+
+
+},
+
+{
+    "id": 11,
+    "name": "Katarraktis Kremastos",
+    "category": "Axiotheato",
+    "longitude": 22.24820,
+    "latitude": 38.87150 
+
+
+},
+
+{
+    "id": 12,
+    "name": "Mouseio Sigxronis Istorias",
+    "category": "Mouseio",
+    "longitude": 22.43764,
+    "latitude": 38.90078
+
+
+}
+]
