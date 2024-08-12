@@ -5210,20 +5210,6 @@
 },
 
 {
-    "id": 16006127,
-    "sq_meters": 85,
-    "price": 46000,
-    "longitude": 16006127, 
-    "latitude": 38.899712,
-    "rooms": 2,
-    "floor": 3,
-    "totalFloors": 4,
-    "levels": 1,
-    "constructionYear": null,
-    "renovatedIn": null 
-},
-
-{
     "id": 16046297,
     "sq_meters": 70,
     "price": 38000,
@@ -6677,20 +6663,6 @@
     "totalFloors": 1,
     "levels": 1,
     "constructionYear": 1991,
-    "renovatedIn": null 
-},
-
-{
-    "id": 15713640,
-    "sq_meters": 287,
-    "price": 170000,
-    "longitude": 15713640, 
-    "latitude": 38.907822,
-    "rooms": 3,
-    "floor": 0,
-    "totalFloors": 2,
-    "levels": 2,
-    "constructionYear": 2009,
     "renovatedIn": null 
 },
 
